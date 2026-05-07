@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import ast; ast.parse\\(open\\('/Users/filippomonzani/Downloads/gap-scanner-main/gap_scanner.py'\\).read\\(\\)\\); print\\('OK'\\)\")"
+    ]
+  }
+}
